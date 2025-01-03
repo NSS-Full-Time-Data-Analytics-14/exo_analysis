@@ -1,12 +1,11 @@
-<h1>Outer Worlds: Analyzing the Discovery and Characteristics of Exoplanets</h1>
+<h1>Analyzing the Discovery and Characteristics of Exoplanets</h1>
 
 
 
 
 <h2>Inspiration</h2>
 
-Life itself. My fascination with Earth and Space Science began in elementary school science class and has only grown stronger. I have since often looked up and wondered so many things. From books and movies to video games and NASA documentaries, this passion has been shaped by a multitude of influences. This project is a great chance for me to dive deeper into astrometry data, align with my aspirations, and move closer to my goals in meaningfully contributing to space exploration.
-
+My inspiration for this project's topic stems from an inherent curiosity about life itself and a desire to understand the unknown. My fascination with Earth and Space Science began in elementary school and has steadily grown stronger ever since. I have often found myself gazing at the sky, pondering countless questions. From captivating books and movies to engaging video games and informative NASA documentaries, this passion and curiosity have been shaped by a diverse range of influences. This project presents a valuable opportunity for me to delve deeper into astrometry data, align with my aspirations, and make significant strides towards my goal of meaningfully contributing to space exploration
 
 
 
