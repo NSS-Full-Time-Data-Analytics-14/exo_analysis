@@ -1,4 +1,4 @@
-<h1>Analyzing the Discovery and Characteristics of Exoplanets</h1>
+<h1>Analyzing the Discovery of Exoplanets</h1>
 
 
 
